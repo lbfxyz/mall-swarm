@@ -4,6 +4,7 @@ target/
 # IDEA #
 .idea/
 *.iml
+rebel.xml
 
 # Eclipse #
 .settings/
